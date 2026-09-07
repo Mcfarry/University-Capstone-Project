@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 311963a9084958244bfc4b4da9b84de5, type: 3}
+  m_Name: Dense Area Burst
+  m_EditorClassIdentifier: 
+  damage: 10
+  cooldownLength: 2
+  priority: 1
+  cooldownRunning: 0
+  origin: {fileID: 0}
+  attackInPursuit: 0
+  displacementFromCentre: 0.2
+  timeToLive: 4
+  bulletCount: 16
+  bullet: {fileID: 1369507236022321197, guid: 7defdd903a639af4ab9a343e131d2a9b, type: 3}
+  speed: 8
