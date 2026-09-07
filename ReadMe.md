@@ -1,7 +1,7 @@
 ## This is an archive of my university capstone project.
 This archive will contain the original code from the project, alongside other assorted parts that can be uploaded to GitHub within the file limit.
 
-The ReadMe below is not accurate to the current state of the uploaded content on this repo.
+**The ReadMe below is not accurate to the current state of the uploaded content on this repo.**
 
 
 
